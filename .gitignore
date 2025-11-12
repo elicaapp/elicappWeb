@@ -1,0 +1,135 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+out/
+lib/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Temporary
+tmp/
+temp/
+.cache/
+
+# Test / tooling
+coverage/
+jest.config.*.cache
+.eslintcache
+
+# Logs produced by winston or rotation
+logs/*.log
+logs/*.gz
+
+# Secrets / keys
+*.pem
+*.key
+
+# Misc
+*.tgz
+```// filepath: e:\src\ElicApp\ElicAppWeb\.gitignore
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+out/
+lib/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Temporary
+tmp/
+temp/
+.cache/
+
+# Test / tooling
+coverage/
+jest.config.*.cache
+.eslintcache
+
+# Logs produced by winston or rotation
+logs/*.log
+logs/*.gz
+
+# Secrets / keys
+*.pem
+*.key
+
+# Misc
+*.tgz
